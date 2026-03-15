@@ -1,5 +1,8 @@
 # Laboratory 1. Waveguides
 
+Group :B1
+Autores: Jose Alberto peña Cruz | Pablo De Manuel Vicente
+
 This repository contains notebooks to validate that the core dependencies for
 the waveguides lab are installed and working. The intended workflow is VS Code
 with a Linux environment (local or WSL).
